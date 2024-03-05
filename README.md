@@ -8,3 +8,7 @@ Register Page:
 
 Edit Page:
 ![image](https://github.com/rohitsp341/CRUD-Operation-in-Laravel/assets/127521022/3376c507-4fe6-4453-90ce-8cbcd6497d34)
+
+Database :
+![Uploading image.png…]()
+
