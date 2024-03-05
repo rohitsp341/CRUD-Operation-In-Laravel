@@ -10,5 +10,6 @@ Edit Page:
 ![image](https://github.com/rohitsp341/CRUD-Operation-in-Laravel/assets/127521022/3376c507-4fe6-4453-90ce-8cbcd6497d34)
 
 Database :
-![Uploading image.png…]()
+![image](https://github.com/rohitsp341/CRUD-Operation-in-Laravel/assets/127521022/e2237678-93d3-4db1-89ae-5361e4f17cff)
+
 
